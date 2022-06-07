@@ -1,6 +1,6 @@
 const imageAna = (file,callback)=> {
-  let subscriptionKey = 'ccc2fb65cddf45f28dd77dec753974ad';
-let endpoint = 'https://myvc.cognitiveservices.azure.com/';
+  let subscriptionKey = '';
+let endpoint = '';
 const request = require('request')
 
 
